@@ -46,7 +46,7 @@ main{
     list-style: none;
 }
 
-.buddy-meter__list:hover{
+.buddy-meter__list li:hover{
     background: yellowgreen;
 }
 
